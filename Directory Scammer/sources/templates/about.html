@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}О нас{% endblock %}
+
+{% block content %}
+<h2>О нас</h2>
+<p>Добро пожаловать на нашу страницу!</p>
+
+<img src="{{ url_for('static', filename='ISCRA.png') }}" alt="Наше изображение" style="max-width: 30%; height: auto;">
+<p>По вопросам пишите одному из наставников с 2 курса</p>
+{% endblock %}

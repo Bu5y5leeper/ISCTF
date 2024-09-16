@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8081:8080"
+    volumes:
+      - .:/app
+    environment:
+     
+      FLAGPATH: FLAG{TiilS:Fr1Ge_PaTH}
+
