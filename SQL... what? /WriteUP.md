@@ -1,6 +1,7 @@
 ## WriteUP
 - Для начала посмотрим исходный код элемента, и увиди там подсказку.
-  <img width="328" alt="Снимок экрана 2024-09-16 в 15 33 11" src="https://github.com/user-attachments/assets/401016f7-f372-4607-ba6f-1a161ad77e14">
+
+<img width="328" alt="Снимок экрана 2024-09-16 в 15 33 11" src="https://github.com/user-attachments/assets/401016f7-f372-4607-ba6f-1a161ad77e14">
 - Читаем про SQL injection и пробуем самый простой шаблон, поле пароля можно оставить пустым 
 ```
 ' OR 1=1--
